@@ -7,13 +7,13 @@ const projectData = [
     },
     {
         title: "Sola.taire",
-        imgUrl: "/assets/solataire-display.jpg",
+        imgUrl: "/personal-website/assets/solataire-display.jpg",
         techStack: ["HTML", "React", "Node.js", "Express.js"],
         link: "https://solataire.netlify.app/"
     },
     {
         title: "Quick News",
-        imgUrl: "/assets/quick-news-display.jpg",
+        imgUrl: "/personal-website/assets/quick-news-display.jpg",
         techStack: ["HTML", "CSS", "JavScript"],
         link: "https://namanu7.github.io/quick-news/"
     }
