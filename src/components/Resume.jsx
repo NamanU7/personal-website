@@ -8,8 +8,8 @@ function Resume() {
 
       <button>
         <a
-          className="text-center inline-block px-7 py-2 w-max text-base font-medium rounded-md
-                        text-white drop-shadow-xl b2-gradient-to-r from-sky-400 bg-emerald-400 
+          className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md
+                        text-white drop-shadow-xl bg-gradient-to-r from-sky-400 bg-emerald-400 
                         hover:outline-amber-400"
           href="/assets/resume.pdf"
           download="Resume_Naman_Uttamchandani.pdf"
