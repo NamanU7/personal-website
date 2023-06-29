@@ -5,12 +5,12 @@ const projectData = [
     techStack: ["HTML", "CSS", "Node.js", "Express.js", "Socket.io", "pug"],
     link: "https://github.com/NamanU7/impostor",
   },
-  // {
-  //   title: "Sola.taire",
-  //   imgUrl: "/assets/solataire-display.jpg",
-  //   techStack: ["HTML", "Node.js", "Express.js"],
-  //   link: "https://solataire.netlify.app/",
-  // },
+  {
+    title: "This Website",
+    imgUrl: "/assets/website-icon.jpg",
+    techStack: ["React", "Vite.js", "Tailwind CSS"],
+    link: "https://github.com/NamanU7/personal-website",
+  },
   {
     title: "Iron Chip",
     imgUrl: "/assets/chip8-database.jpg",
